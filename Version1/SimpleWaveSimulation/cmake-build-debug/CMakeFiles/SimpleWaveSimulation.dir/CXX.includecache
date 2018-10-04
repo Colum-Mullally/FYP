@@ -7,6 +7,18 @@
 #IncludeRegexTransform: 
 
 C:/Users/Dev Mode/Projects/Version1/SimpleWaveSimulation/main.cpp
-iostream
+array
+-
+algorithm
+-
+thread
+-
+chrono
+-
+cstdio
+-
+cmath
+-
+string
 -
 

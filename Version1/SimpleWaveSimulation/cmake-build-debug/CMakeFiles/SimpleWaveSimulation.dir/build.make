@@ -59,15 +59,15 @@ include CMakeFiles/SimpleWaveSimulation.dir/flags.make
 CMakeFiles/SimpleWaveSimulation.dir/main.cpp.obj: CMakeFiles/SimpleWaveSimulation.dir/flags.make
 CMakeFiles/SimpleWaveSimulation.dir/main.cpp.obj: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Dev Mode\Projects\Version1\SimpleWaveSimulation\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SimpleWaveSimulation.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SimpleWaveSimulation.dir\main.cpp.obj -c "C:\Users\Dev Mode\Projects\Version1\SimpleWaveSimulation\main.cpp"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SimpleWaveSimulation.dir\main.cpp.obj -c "C:\Users\Dev Mode\Projects\Version1\SimpleWaveSimulation\main.cpp"
 
 CMakeFiles/SimpleWaveSimulation.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SimpleWaveSimulation.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Dev Mode\Projects\Version1\SimpleWaveSimulation\main.cpp" > CMakeFiles\SimpleWaveSimulation.dir\main.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Dev Mode\Projects\Version1\SimpleWaveSimulation\main.cpp" > CMakeFiles\SimpleWaveSimulation.dir\main.cpp.i
 
 CMakeFiles/SimpleWaveSimulation.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SimpleWaveSimulation.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Dev Mode\Projects\Version1\SimpleWaveSimulation\main.cpp" -o CMakeFiles\SimpleWaveSimulation.dir\main.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Dev Mode\Projects\Version1\SimpleWaveSimulation\main.cpp" -o CMakeFiles\SimpleWaveSimulation.dir\main.cpp.s
 
 # Object files for target SimpleWaveSimulation
 SimpleWaveSimulation_OBJECTS = \
